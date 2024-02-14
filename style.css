@@ -29,7 +29,7 @@ body {
 section {
   padding: 4rem;
   width: min(650px, (100% - 2rem));
-  background-color: white;
+  background-color: var(--white);
   border-radius: 20px;
   box-shadow: 0 0 100px -20px var(--dark-purple-alpha);
 }
